@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá! 👋
+Sou um desenvolvedor fullstack, atualmente estagiando na Companhia Águas de Joinville. Estou fazendo um curso de aprimoramento na area de sistemas na instituição Senac. Estou no quarto semestre de Análise e Desenvolvimento de Sistemas.
 
-<!--
-**Osvaldo1408exe/Osvaldo1408exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente, estou trabalhando em
+Na Companhia Águas de Joinville, estou envolvido no desenvolvimento e manutenção de aplicações web e suporte.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Estou buscando colaborar em
+Projetos que envolvam React, Node.js, PHP e PostgreSQL.
+
+🤔 Estou buscando ajuda com
+Aprender melhores práticas.
+
+💬 Pergunte-me sobre
+Desenvolvimento fullstack, especialmente com PHP e Node.js.
+Gerenciamento de dados usando PostgreSQL.
+
+📫 Como me encontrar
+* [LinkedIn](https://www.linkedin.com/in/osvaldo-protazio/)
+* [Email](osvaldo1408exe@gmail.com)
+* [GitHub](https://github.com/Osvaldo1408exe)
+
