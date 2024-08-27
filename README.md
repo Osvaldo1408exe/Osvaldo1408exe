@@ -7,11 +7,8 @@ Sou um desenvolvedor fullstack, atualmente estagiando na Companhia Águas de Joi
 👯 Estou buscando colaborar em
 Projetos que envolvam React, Node.js, PHP, C# e PostgreSQL e MySql.
 
-🤔 Estou buscando ajuda com
-Aprender melhores práticas.
-
 💬 Pergunte-me sobre
-Desenvolvimento fullstack, especialmente com PHP e Node.js.
+Desenvolvimento fullstack, especialmente com PHP.
 Gerenciamento de dados usando PostgreSQL.
 
 📫 Como me encontrar
