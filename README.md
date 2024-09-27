@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 🎓 Cursando Engenharia de software / PUCSC
+- 🎓 Cursando Engenharia de software / Católica SC
 - 💼 Estagiando na Companhia Águas de Joinville
 
 ## 🚀 Habilidades
