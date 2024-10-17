@@ -25,4 +25,4 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 * [Email](osvaldo1408exe@gmail.com)
 * [GitHub](https://github.com/Osvaldo1408exe)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à área.
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à área.
