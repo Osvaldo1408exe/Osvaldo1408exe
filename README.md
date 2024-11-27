@@ -12,7 +12,7 @@ Here are some programming languages and technologies I am familiar with:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,javascript,php)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=vue,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
 ## 🗄️ Databases: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
