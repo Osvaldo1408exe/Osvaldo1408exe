@@ -4,6 +4,7 @@
 
 - 🎓 Software Engineering / Católica SC
 - 💼 Interning at Companhia Águas de Joinville
+- 💼 Support and Development Assistant at Paviloche
 
 ## 🚀 Skills
 Here are some programming languages and technologies I am familiar with:
