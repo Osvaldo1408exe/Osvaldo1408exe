@@ -22,7 +22,7 @@ Here are some programming languages and technologies I am familiar with:
 
 ## 📫 How to find me
 * [LinkedIn](https://www.linkedin.com/in/osvaldo-protazio/)
-* [Email](osvaldo1408exe@gmail.com)
+* [Email](mailto:osvaldo1408.exe@gmail.com)
 * [GitHub](https://github.com/Osvaldo1408exe)
 
 Feel free to reach out to me to discuss collaborations, projects, or any other topic related to the field.
