@@ -13,10 +13,10 @@ Here are some programming languages and technologies I am familiar with:
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,php)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,spring,hibernate)](https://skillicons.dev)
 
 ## 🗄️ Databases: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,postgres,)](https://skillicons.dev)
 ## ⚙️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)<br><br>
 
