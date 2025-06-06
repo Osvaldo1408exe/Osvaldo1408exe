@@ -2,9 +2,8 @@
 
 ## 💼 Professional Profile
 
-- 🎓 Software Engineering / Católica SC
-- 💼 Interning at Companhia Águas de Joinville
-- 💼 Support and Development Assistant at Paviloche
+- 🎓 Software Engineering
+- 💼 Security Systems Analyst
 
 ## 🚀 Skills
 Here are some programming languages and technologies I am familiar with:
